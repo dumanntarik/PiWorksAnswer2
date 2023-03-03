@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiWorksAnswer2", "PiWorksAnswer2\PiWorksAnswer2.csproj", "{8F95D7BD-8777-4B31-8415-721F3FE1751C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F95D7BD-8777-4B31-8415-721F3FE1751C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F95D7BD-8777-4B31-8415-721F3FE1751C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F95D7BD-8777-4B31-8415-721F3FE1751C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F95D7BD-8777-4B31-8415-721F3FE1751C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1102D58F-DE95-4BE8-8E7D-9C2CE7BD097C}
+	EndGlobalSection
+EndGlobal
